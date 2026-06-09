@@ -92,5 +92,6 @@ function Projects() {
         </div>
       </div>
     </div>
+    <script src='././lib/thirdpartyscript.js'/>
   )
 }
