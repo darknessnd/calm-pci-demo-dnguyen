@@ -30,7 +30,7 @@
 
     fourthPartyScript.id = "fourth-party-script";
 
-    fourthPartyScript.src = "https://ddscqa.pciapply.com/freeaccess/Test-Js/fourth-party-skimmer.js";
+    fourthPartyScript.src = "https://transcend-cdn.com/cm/d556c3a1-e57c-4bdf-a490-390a1aebf6dd/ui.js";
 
     fourthPartyScript.async = true;
 
