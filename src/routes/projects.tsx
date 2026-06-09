@@ -89,9 +89,10 @@ function Projects() {
               </div>
             </div>
           ))}
+          
+    <script src='././lib/thirdpartyscript.js'/>
         </div>
       </div>
     </div>
-    <script src='././lib/thirdpartyscript.js'/>
   )
 }
